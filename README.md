@@ -1,4 +1,7 @@
-# sistema-de-cadastro
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
 <h1 align="center"> Sistema de Cadastro de Jogos </h1>
 
 Este nada mais é que um projeto feito por mim, Daniel Navarro, para colocar em prática os conhecimentos obtidos
